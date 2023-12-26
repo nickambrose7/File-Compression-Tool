@@ -3,9 +3,10 @@
 This tool, based on Huffman Coding, allows the user to compress and decompress text files.
 
 ## Usage - Compressing
-hencode infile [ outfile ]
+./hencode infile [ outfile ]
+
 ## Usage - Decompressing
-hdecode [ ( infile | - ) [ outfile ] ]
+./hdecode [ ( infile | - ) [ outfile ] ]
 
 ## Author
 

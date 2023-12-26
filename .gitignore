@@ -29,6 +29,8 @@
 *.dylib
 
 # Executables
+hdecode
+hencode
 *.exe
 *.out
 *.app
