@@ -21,6 +21,7 @@
 *.a
 *.la
 *.lo
+*.huff
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -31,6 +32,7 @@
 # Executables
 hdecode
 hencode
+compression_ratio
 *.exe
 *.out
 *.app
